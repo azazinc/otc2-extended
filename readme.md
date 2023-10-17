@@ -1,2 +1,2 @@
-Important: we don't collect your data! \n
-Важно: мы не собираем ваши данные!
+EN: Important: we don't collect your data! |
+RU: Важно: мы не собираем ваши данные!
